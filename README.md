@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is László György. I'm a full-stack developer student and an ethusiastic problem solver from Hungary. Look around in my repos, and feel free to contact me if you have any questions.
+My name is László György. I'm a full-stack developer student and an enthusiastic problem solver from Hungary. Look around in my repos, and feel free to contact me if you have any questions.
 
 ## 🔧 Technologies I'm familiar with
 
